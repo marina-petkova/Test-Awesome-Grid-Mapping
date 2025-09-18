@@ -8,16 +8,18 @@
        width="150">
 </p>
 
+A curated list of resources in the field of electrical grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition.
+
+
 ??? question "Why we've copiled these resources"
-  The datasets, maps and all resources compiled here are used to estimate the grid coverage in OpenStreetMap and to find     missing lines. Do not copy/paste data from these maps directly into your OpenStreetMap layer. Each data point of the transmission network must be set manually and [verified](https://wiki.openstreetmap.org/wiki/Verifiability) with official satellite data provided by the OpenStreetMap community.
+        The datasets, maps and all resources compiled here are used to estimate the grid coverage in OpenStreetMap and to find   missing lines. Do not copy/paste data from these maps directly into your OpenStreetMap layer. Each data point of the   transmission network must be set manually and [verified](https://wiki.openstreetmap.org/wiki/Verifiability) with official satellite data provided by the OpenStreetMap community.
 
 ??? tip "Join the #MapYourGrid initiative"
-  Get started with transmission grid mapping in OpenStreetMap by checking out our [Starter Kit Tutorial](https://mapyourgrid.org/starter-kit/) and [our community discord channel](https://discord.gg/a5znpdFWfD). 
+        Get started with transmission grid mapping in OpenStreetMap by checking out our [Starter Kit Tutorial](https://mapyourgrid.org/starter-kit/) and [our community discord channel](https://discord.gg/a5znpdFWfD). 
 
 ??? note "A link is not working ?"
-  If a resource link is broken, or you find a map with a broken link that you'd like to add to this list, try it on the [Internet Archive](https://web.archive.org/). This even works for PDFs and other files.
+        If a resource link is broken, or you find a map with a broken link that you'd like to add to this list, try it on the [Internet Archive](https://web.archive.org/). This even works for PDFs and other files.
 
-A curated list of resources in the field of electrical grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition.
 
 <div class="no-toc"> </div>
 
