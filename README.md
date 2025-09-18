@@ -2,7 +2,11 @@
   <h1 id="sources-scope">MapYourGrid Resources</h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/open-energy-transition/Awesome-Electric-Grid-Mapping/refs/heads/main/ohmygrid-logo.png" alt="Global Grid Mapping" width="350">
+<p style="text-align: right;">
+  <img src="https://raw.githubusercontent.com/open-energy-transition/Awesome-Electric-Grid-Mapping/refs/heads/main/ohmygrid-logo.png"
+       alt="MapYourGrid"
+       width="150">
+</p>
 
 ??? question "Why we've copiled these resources"
   The datasets, maps and all resources compiled here are used to estimate the grid coverage in OpenStreetMap and to find     missing lines. Do not copy/paste data from these maps directly into your OpenStreetMap layer. Each data point of the transmission network must be set manually and [verified](https://wiki.openstreetmap.org/wiki/Verifiability) with official satellite data provided by the OpenStreetMap community.
