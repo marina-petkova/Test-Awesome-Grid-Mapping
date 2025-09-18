@@ -4,12 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/open-energy-transition/Awesome-Electric-Grid-Mapping/refs/heads/main/ohmygrid-logo.png" alt="Global Grid Mapping" width="350">
 
+??? question "Why we've copiled these resources"
+  The datasets, maps and all resources compiled here are used to estimate the grid coverage in OpenStreetMap and to find     missing lines. Do not copy/paste data from these maps directly into your OpenStreetMap layer. Each data point of the transmission network must be set manually and [verified](https://wiki.openstreetmap.org/wiki/Verifiability) with official satellite data provided by the OpenStreetMap community.
 
-⚠️ **If you're eager to get started with transmission grid mapping in OpenStreetMap, check out the [Starter Kit Tutorial](https://mapyourgrid.org/starter-kit/) and [our community discord channel](https://discord.gg/a5znpdFWfD) of #MapYourGrid. Please note that the maps shown here are used to estimate the coverage in OpenStreetMap and to find missing lines. Do not copy/paste data from these maps directly into your OpenStreetMap layer. Each data point of the transmission network must be set manually and [verified](https://wiki.openstreetmap.org/wiki/Verifiability) with official satellite data provided by the OpenStreetMap community.**
+??? tip "Join the #MapYourGrid initiative"
+  Get started with transmission grid mapping in OpenStreetMap by checking out our [Starter Kit Tutorial](https://mapyourgrid.org/starter-kit/) and [our community discord channel](https://discord.gg/a5znpdFWfD). 
 
-> If a link is broken, or you find a map with a broken link that you would like to add to this list, just try the link at the [Internet Archive](https://web.archive.org/). This even works for PDFs and other files.
-
-![](scripts/countries_map_with_logo.png)
+??? note "A link is not working ?"
+  If a resource link is broken, or you find a map with a broken link that you'd like to add to this list, try it on the [Internet Archive](https://web.archive.org/). This even works for PDFs and other files.
 
 A curated list of resources in the field of electrical grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition.
 
