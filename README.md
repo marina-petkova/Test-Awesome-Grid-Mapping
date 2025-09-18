@@ -9,7 +9,7 @@
 ">
 
   <p style="margin: 0;">
-    This is the text that goes with the logo — you can write as much as you like here.
+     A curated list of resources in the field of electrical grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition. 
   </p>
 
   <img src="https://raw.githubusercontent.com/open-energy-transition/Awesome-Electric-Grid-Mapping/refs/heads/main/ohmygrid-logo.png"
